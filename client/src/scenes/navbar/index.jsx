@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          Socio-Sphere
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
